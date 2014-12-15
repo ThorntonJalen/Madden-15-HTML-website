@@ -1,0 +1,27 @@
+body{
+   
+    background-image: url('http://cdn.bleacherreport.net/images_root/article/media_slots/photos/000/553/512/OregonStateSpin_original.gif?1348354315')
+    
+}
+
+
+div{
+    
+    border-width: 1px;
+    border-color: white;
+    padding: 30px;
+        color: white
+    
+}
+
+.cont {
+    border-color: white;
+        
+}
+.row{
+    border-color: white;
+}
+
+
+
+
